@@ -11,3 +11,5 @@ KubeZero is a production-ready, out-of-the-box Platform Orchestrator with GitOps
 - **Multi-Environment:** Effortlessly manage dev, staging, and prod.
 - **Zero-Friction:** Simplifies platform engineering for teams of any size.
 - **Production-Ready:** Secure, scalable, and reliable by default.
+
+Docs: https://docs.kubezero.io
